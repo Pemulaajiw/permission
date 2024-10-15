@@ -286,9 +286,9 @@ echo -e "   ${WH} SSH WS : ${status_ssh} ${WH} XRAY : ${status_xray} ${WH} NGINX
 echo -e "       ${WH} WS-ePRO : ${status_ws_epro} ${WH} NOOBZVPNS : ${stat_noobz} HAPROXY : ${status_haproxy}${NC}"
 echo -e " ${NC} ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯${NC}" | lolcat
 echo -e "${COLOR1} ┌─────────────────────────────────────────────────────┐${NC}"
-echo -e "${COLOR1} │  ${WH}[${COLOR1}01${WH}]${NC} ${COLOR1}• ${WH} SSH        ${WH}[${COLOR1}Menu${WH}]${NC}"  "${WH}  [${COLOR1}06${WH}]${NC} ${COLOR1}• ${WH} BOT VIP     ${WH}[${COLOR1}Menu${WH}]${NC}" "${COLOR1}      │${NC}"
-echo -e "${COLOR1} │  ${WH}[${COLOR1}02${WH}]${NC} ${COLOR1}• ${WH} ALLXRAYS      ${WH}[${COLOR1}Menu${WH}]${NC}"  "${WH}  [${COLOR1}07${WH}]${NC} ${COLOR1}• ${WH} BACKUP BOT  ${WH}[${COLOR1}Menu${WH}]${NC}" "${COLOR1}      │${NC}"
-echo -e "${COLOR1} │  ${WH}[${COLOR1}03${WH}]${NC} ${COLOR1}• ${WH} NOOBZVPN      ${WH}[${COLOR1}Menu${WH}]${NC}"  "${WH}  [${COLOR1}08${WH}]${NC} ${COLOR1}• ${WH} UPDATE   ${WH}[${COLOR1}Menu${WH}]${NC}" "${COLOR1}      │${NC}"
+echo -e "${COLOR1} │  ${WH}[${COLOR1}01${WH}]${NC} ${COLOR1}• ${WH} SSH        ${WH}[${COLOR1}Menu${WH}]${NC}"  "${WH}  [${COLOR1}06${WH}]${NC} ${COLOR1}• ${WH} BOT VIP      ${WH}[${COLOR1}Menu${WH}]${NC}" "${COLOR1}      │${NC}"
+echo -e "${COLOR1} │  ${WH}[${COLOR1}02${WH}]${NC} ${COLOR1}• ${WH} ALLXRAYS   ${WH}[${COLOR1}Menu${WH}]${NC}"  "${WH}  [${COLOR1}07${WH}]${NC} ${COLOR1}• ${WH} BACKUP BOT   ${WH}[${COLOR1}Menu${WH}]${NC}" "${COLOR1}      │${NC}"
+echo -e "${COLOR1} │  ${WH}[${COLOR1}03${WH}]${NC} ${COLOR1}• ${WH} NOOBZVPN   ${WH}[${COLOR1}Menu${WH}]${NC}"  "${WH}  [${COLOR1}08${WH}]${NC} ${COLOR1}• ${WH} UPDATE       ${WH}[${COLOR1}Menu${WH}]${NC}" "${COLOR1}      │${NC}"
 echo -e "${COLOR1} │  ${WH}[${COLOR1}04${WH}]${NC} ${COLOR1}• ${WH} THEMES     ${WH}[${COLOR1}Menu${WH}]${NC}"  "${WH}  [${COLOR1}09${WH}]${NC} ${COLOR1}• ${WH} ENC FILE     ${WH}[${COLOR1}Menu${WH}]${NC}" "${COLOR1}      │${NC}"
 echo -e "${COLOR1} │  ${WH}[${COLOR1}05${WH}]${NC} ${COLOR1}• ${WH} SYSTEM     ${WH}[${COLOR1}Menu${WH}]${NC}"  "${WH}  [${COLOR1}10${WH}]${NC} ${COLOR1}• ${WH} INS WARP     ${WH}[${COLOR1}Menu${WH}]${NC}" "${COLOR1}      │${NC}"
 echo -e "${COLOR1} └─────────────────────────────────────────────────────┘${NC}"
